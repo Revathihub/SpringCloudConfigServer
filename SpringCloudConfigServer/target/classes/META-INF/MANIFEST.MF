@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Revathi
+Build-Jdk: 17.0.5
+Implementation-Title: SpringCloudConfigServer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.o7planning
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SpringCloudCon
+ figServer/
+Created-By: Maven Integration for Eclipse
+
